@@ -25,6 +25,7 @@ public class Main {
         Polideportivo polideportivo = new Polideportivo();
         Scanner sc = new Scanner(System.in);
         do {
+              
             System.out.println("Que quieres hacer?");
             System.out.println("1:Dar de alta en el gimnasio");
             System.out.println("2:Matricular en una activad");
